@@ -22,9 +22,67 @@ Documentation: https://docs.google.com/presentation/d/1-HY_-XZpGzeATvMkItx-ShBxV
 Day2:Planning the Technical Foundation
 
 Task2 Completed:
+
 ° Designed the technical architecture for the platform.
+
 
 ° Selected the tools and frameworks (React, Next.js, Sanity CMS, Vercel) to bring the vision to life.
 
-Documentation:[pdf2.pdf](https://github.com/user-attachments/files/18549400/pdf2.pdf)
+Documentation: [Documentation (1).pdf](https://github.com/user-attachments/files/18549430/Documentation.1.pdf)
+
+Day3:API Integration and Data Migration
+
+Task3 Completed:
+
+° Integrated APIs to enable real-time product updates.
+
+° Imported the summer collection data into Sanity CMS and connected it to the frontend.
+
+° Conducted a self-review of the previous tasks for accuracy and optimization.
+
+Documentation:[- API INTEGRATION AND DATA MIGRATIO.pdf](https://github.com/user-attachments/files/18549436/-.API.INTEGRATION.AND.DATA.MIGRATIO.pdf)
+
+Day4:Building Dynamic Frontend Components for Your Marketplace
+
+Task4 Completed :
+
+° Developed reusable and dynamic components for showcasing products.
+
+° Added interactive features like carousels and filtering options for a better user experience.
+
+Documentation:[Day4.pdf](https://github.com/user-attachments/files/18549466/Day4.pdf)
+
+Day5:Testing, Error Handling, and Backend Integration Refinement
+
+Task5 Completed:
+
+° Conducted thorough testing for frontend and backend functionality.
+
+° Enhanced error handling for smoother browsing and checkout.
+
+° Optimized backend operations for faster loading and better performance.
+
+Documentation:[Day5 (2).pdf](https://github.com/user-attachments/files/18549507/Day5.2.pdf)
+
+Day6: Deployment Preparation and Staging Environment Setup
+
+Task6: Completed:
+
+° Set up a staging environment for final testing and demonstrations.
+
+° Prepared the platform for deployment and ensured it was production-ready.
+
+Documentation:[update day-6.pdf](https://github.com/user-attachments/files/18549510/update.day-6.pdf)
+
+Github Link:https://github.com/Niba-khan/Hackathon-3.git
+
+Vercel Link: https://hackathon-3-psi-five.vercel.app/
+
+🛠️ Tools and Technologies
+
+Frontend: React, Next.js
+
+Backend: Sanity CMS
+
+Hosting: Vercel
 
